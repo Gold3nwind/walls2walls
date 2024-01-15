@@ -1,0 +1,9 @@
+BallsToTheWalls/Library/**
+BallsToTheWalls/Temp/**
+BallsToTheWalls/Logs/**
+BallsToTheWalls/.vs/**
+BallsToTheWalls/obj/Debug/**
+*.wlt
+*.dwlt
+*.vsconfig
+*.csproj
