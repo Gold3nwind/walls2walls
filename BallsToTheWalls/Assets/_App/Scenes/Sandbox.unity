@@ -3617,7 +3617,7 @@ PrefabInstance:
     - target: {fileID: 327060523841607599, guid: dce49b9a00607f34e9288ee604533bf5,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.508
       objectReference: {fileID: 0}
     - target: {fileID: 327060523841607599, guid: dce49b9a00607f34e9288ee604533bf5,
         type: 3}
@@ -3658,6 +3658,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 327060524374440171, guid: dce49b9a00607f34e9288ee604533bf5,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.258
       objectReference: {fileID: 0}
     - target: {fileID: 3784537015132848298, guid: dce49b9a00607f34e9288ee604533bf5,
         type: 3}
@@ -4011,6 +4016,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5776479781808524495, guid: f54c2845ba2fc4b4f86bbdb2f65b701b,
         type: 3}
+      propertyPath: m_MovementType
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776479781808524495, guid: f54c2845ba2fc4b4f86bbdb2f65b701b,
+        type: 3}
+      propertyPath: m_TrackPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776479781808524495, guid: f54c2845ba2fc4b4f86bbdb2f65b701b,
+        type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776479781808524495, guid: f54c2845ba2fc4b4f86bbdb2f65b701b,
+        type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776479781808524495, guid: f54c2845ba2fc4b4f86bbdb2f65b701b,
+        type: 3}
+      propertyPath: m_TightenPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776479781808524495, guid: f54c2845ba2fc4b4f86bbdb2f65b701b,
+        type: 3}
       propertyPath: m_InteractionManager
       value: 
       objectReference: {fileID: 847055426}
@@ -4018,6 +4048,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_ThrowVelocityScale
       value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776479781808524495, guid: f54c2845ba2fc4b4f86bbdb2f65b701b,
+        type: 3}
+      propertyPath: m_ForceGravityOnDetach
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776479781808524495, guid: f54c2845ba2fc4b4f86bbdb2f65b701b,
+        type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 5776479781808524495, guid: f54c2845ba2fc4b4f86bbdb2f65b701b,
+        type: 3}
+      propertyPath: m_RetainTransformParent
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5776479781808524495, guid: f54c2845ba2fc4b4f86bbdb2f65b701b,
         type: 3}
